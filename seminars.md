@@ -373,3 +373,12 @@ The one-hour seminar includes a 35-minute presentation by the author and 25 minu
 
 - [Website](https://www.aeaweb.org/about-aea/committees/aealgbtq/virtual-seminars)
 - [Register](https://forms.gle/xnaCijhQC3zxHzCa8)
+
+### CInSt Research Online Seminars in Institutional Economics from HSE University
+
+A regular open online international inter-institutional seminar in institutional economics and the economics of education. 50 minutes of presentation, and 30 minutes of audience questions. Held on Zoom.
+
+Occurs Thursdays at 6:10 (GMT+3).
+
+- [Website](https://cinst.hse.ru/en/seminar/)
+- [FB](https://www.facebook.com/cinst.hse.ru/)
